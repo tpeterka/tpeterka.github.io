@@ -27,9 +27,7 @@ This will create a `node_modules` directory; please do not add this directory in
 
 Run
 
-```make```
-
-This will render all the html pages. The home page is `index.html`.
+Run `make`. This will render all the html pages. The home page is `index.html`.
 
 # Commit and push to github.io
 
