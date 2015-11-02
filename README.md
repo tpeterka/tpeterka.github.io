@@ -1,6 +1,6 @@
-# Maui-project
+# Project websites
 
-This is a website created with a variety of web tools---node, jade, and markdown---all to avoid having to write html. The jade files are used to render html (i.e., generate html files with the same base name) when running make. The markdown files contain most of the textual content, and jade includes them during the rendering. This project can be used as a template for other websites simply by replacing or customizing the content to suit a particular need.
+These websites are created with a variety of web tools---node, jade, and markdown---all to avoid having to write html. The jade files are used to render html (i.e., generate html files with the same base name) when running make. The markdown files contain most of the textual content, and jade includes them during the rendering. This project can be used as a template for other websites simply by replacing or customizing the content to suit a particular need.
 
 The steps to build and run the example are below.
 
