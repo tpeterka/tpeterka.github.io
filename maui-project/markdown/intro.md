@@ -14,7 +14,7 @@ Tom Peterka (MCS), Ian McNulty (NST), Nicola Ferrier (MCS), Ross Harder (XSD), T
 
 ## Postdocs
 
-Kiran Sasikumar (NST), Mathew Cherukara (XSD), and Youssef Nashed (MCS)
+Kiran Sasikumar (NST), Mathew Cherukara (XSD), Andrew Ulvestad (XSD), and Youssef Nashed (MCS)
 
 --------------
 
