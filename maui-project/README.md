@@ -13,7 +13,8 @@ The steps to build and run the example are below.
 
 Use npm to customize the local install:
 
-```sudo npm install```
+```sudo npm install jade```
+```sudo npm install jstransformer-marked```
 
 This will create a `node_modules` directory; please do not add this directory in git. These are not source files and should remain unversioned.
 
