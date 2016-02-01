@@ -33,3 +33,5 @@ Run `make`. This will render all the html pages. The home page is `index.html`.
 # Commit and push to github.io
 
 The website will appear [here](http://tpeterka.github.io/maui-project/).
+
+(It can take a few minutes for github to update the website; be patient)

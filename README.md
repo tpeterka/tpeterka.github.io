@@ -32,3 +32,5 @@ Run `make`. This will render all the html pages. The home page is `index.html`.
 The websites will appear here:
 
 - [maui-project](http://tpeterka.github.io/maui-project/)
+
+(It can take a few minutes for github to update the website; be patient)
