@@ -4,17 +4,17 @@
 
 <br><br>
 
-# Project reports
+## Project reports
 
 - [6 month report, 3/15](files/peterka-maui-report-0315.pdf)
 - [12 month report, 12/15](files/peterka-maui-report-1215.pdf)
 
-# Highlight slides
+## Highlight slides
 
 - [10/1/14](files/peterka-maui-highlight-slide.pdf)
 - [03/10/15](files/highlight-slide031015.pdf)
 
-# Presentations
+## Presentations
 
 - [Tom's Imaging Initiative Workshop talk, 9/30/14](files/peterka-imaging-workshop14-talk.pdf)
 - [Ross' coffee talk, 2/15](files/harder-coffee-talk-0215.pdf)
