@@ -25,7 +25,7 @@
 ## Kiran's Clusters and Nanmaterials talk, 10/15
 ## [Tom's Supercomputing (SC15) Birds-of-a-Feather (BOF) talk, 11/15](files/peterka-SC-BOF-111715-talk.pdf)
 ## [Tom's I^3 talk 3/21/16](files/peterka-I3-talk-032116.pdf)
-## [Kiran's MRS 2016 talk, 4/1/16](files/WP_31Mar2016_MRS.pdf)
+## Kiran's MRS 2016 talk, 4/1/16
 
 
 
