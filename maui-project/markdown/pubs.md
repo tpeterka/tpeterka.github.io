@@ -20,4 +20,3 @@
   Peterka, T., McNulty, I., Wen, H., Sankaranarayanan, S., Harder, R.: Ultrafast
   Three-Dimensional Imaging of Deformation Modes in ZnO NanoCrystals.
   Nanoletters Journal, December 27, 2016.
-
