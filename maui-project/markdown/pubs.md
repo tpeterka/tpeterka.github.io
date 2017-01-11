@@ -15,3 +15,9 @@
 - Ulvestad, A., Sasikumar, K., Kim, J. W., Harder, R., Maxey, E., Clark, J.N., Narayanan, B., Deshmukh, S., Ferrier, N., Mulvaney, P., Sankaranarayanan, S., Shpyrko, O.G: In-situ 3D Imaging of Catalysis Induced Strain in Gold Nanoparticles. Physical Chemistry Letters, 2016.
 
 - Cherukara, M., Narayanan, B., Kinaci, A., Sasikumar, K., Gray, S., Chan, M., Sankaranarayanan, S.: Ab Initio-Based Bond Order Potential to Investigate Low Thermal Conductivity of Stanene Nanostructures. Physical Chemistry Letters vol. 7, p. 3752-3759, 2016.
+
+- Cherukara, M., Sasikumar, K., Cha, W., Narayanan, B., Leake, S., Dufresne, E.,
+  Peterka, T., McNulty, I., Wen, H., Sankaranarayanan, S., Harder, R.: Ultrafast
+  Three-Dimensional Imaging of Deformation Modes in ZnO NanoCrystals.
+  Nanoletters Journal, December 27, 2016.
+
